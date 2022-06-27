@@ -1,1 +1,1 @@
-Canh nay cung dep trai
+echo some thing on outdex
