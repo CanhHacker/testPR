@@ -1,1 +1,1 @@
-echo some thing on outdex
+test checkout 2
