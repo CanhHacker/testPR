@@ -2,3 +2,4 @@ test checkout in outdex
 test checkout 3
 tesst lkanf 2
 git test lan 3
+test
